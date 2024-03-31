@@ -521,7 +521,7 @@ a.select.active.show {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   width: 190px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   letter-spacing: 0.7;
   padding: 10px;
   height: 36px;
@@ -621,4 +621,7 @@ a.select.active.show {
     z-index: 1000;
     height: 1000px;
   }
+}
+#footer .koffi{
+  padding-top: 1px;
 }
