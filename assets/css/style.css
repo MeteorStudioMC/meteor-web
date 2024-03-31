@@ -521,6 +521,7 @@ a.select.active.show {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   width: 190px;
+  margin-bottom: 30px;
   letter-spacing: 0.7;
   padding: 10px;
   height: 36px;
