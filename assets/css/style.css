@@ -232,6 +232,9 @@ h6 {
   width: 100%;
   height: 80vh;
   position: relative;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
 
 #hero .hero-container {
@@ -245,8 +248,12 @@ h6 {
 }
 
 #hero img {
-  width: 1200px;
-  padding-top: 100px;
+  width: 1000px;
+  padding-top: 50px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding-right: 32px;
 }
 
 @media (min-width: 1024px) {
@@ -572,7 +579,7 @@ a.select.active.show {
 
 #footer {
   padding: 34px;
-  margin-top: 50px;
+  margin-bottom: 40px;
 
 }
 
