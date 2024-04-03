@@ -637,3 +637,18 @@ iframe{
   background-color: rgb(255, 255, 255);
   border-radius: 20px;
 }
+.boton-form{
+  color: #fff;
+  background: #ffb038;
+  padding: 10px 30px;
+  display: inline-flex;
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  transition: 0.5s;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.boton-form:hover{
+  transform: scale(90%);
+}
